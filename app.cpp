@@ -111,7 +111,7 @@ namespace AprilCrackme
 		printf("%i %x\n", check_eighth, check_ninth);
 
 		/*
-		 *	Result string is: 95718w00t.
+		 *	Result string is: 95718t00w.
 		*/
 
 		if (check_first == 0x15b &&
